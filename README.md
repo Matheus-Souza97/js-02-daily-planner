@@ -1,4 +1,3 @@
-# js-02-daily-planner
 #  Daily Planner
 
 Um aplicativo simples de lista de tarefas (To-Do List) desenvolvido com **HTML, CSS e JavaScript puro**, com persistência de dados utilizando **localStorage**.
@@ -19,14 +18,6 @@ Um aplicativo simples de lista de tarefas (To-Do List) desenvolvido com **HTML, 
 - CSS3 (Flexbox)
 - JavaScript (DOM + LocalStorage)
 - Git & GitHub
-
----
-
-## Preview do Projeto
-
-<img src="preview.png" alt="Preview do projeto" width="600">
-
-> Você pode adicionar um print da tela e salvar como `preview.png` na pasta do projeto.
 
 ---
 
